@@ -456,7 +456,7 @@ if (!isMainThread) {
 
     console.clear();
     console.log('=============================================');
-    console.log('   STORK ORACLE AUTO BOT - AIRDROP INSIDERS  ');
+    console.log('   STORK AUTO BOT ');
     console.log('=============================================');
     console.log(`Time: ${getTimestamp()}`);
     console.log('---------------------------------------------');
