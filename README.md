@@ -22,20 +22,14 @@ Automated validation bot for the Stork Oracle network. This bot helps you automa
 
 1. Clone the repository:
 ```
-git clone https://github.com/airdropinsiders/Stork-Auto-Bot.git
+git clone https://github.com/sadi200/Storkbot.git && cd Storkbot
 ```
-
-2. Navigate to the project directory:
-```
-cd Stork-Auto-Bot
-```
-
-3. Install dependencies:
+2. Install dependencies:
 ```
 npm install
 ```
 
-4. Configure your credentials (see Configuration section below)
+3. Configure your credentials (see Configuration section below)
 
 ## Configuration
 
@@ -107,14 +101,3 @@ In your `config.json` file, you can adjust:
 - For connection issues, check your internet connection and verify the Stork Oracle API is accessible
 - If using proxies, check that your proxies.txt is properly formatted and proxies are operational
 
-## Disclaimer
-
-This bot is provided for educational purposes only. Use at your own risk. The authors are not responsible for any consequences that may arise from using this bot, including but not limited to account termination or loss of rewards.
-
-## License
-
-MIT License
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
